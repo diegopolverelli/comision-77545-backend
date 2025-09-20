@@ -1,0 +1,44 @@
+[
+     {
+          "id": 1,
+          "nombre": "Diego",
+          "email": "diego@test.com",
+          "password": "7a72183de71e369373cfb6e7557c39b32740c96506155ba888fde1b0474492f2"
+     },
+     {
+          "id": 2,
+          "nombre": "Laura",
+          "email": "laura@test.com",
+          "password": "7a72183de71e369373cfb6e7557c39b32740c96506155ba888fde1b0474492f2"
+     },
+     {
+          "id": 3,
+          "nombre": "Maria Laura",
+          "email": "marialaura@test.com",
+          "password": "7a72183de71e369373cfb6e7557c39b32740c96506155ba888fde1b0474492f2"
+     },
+     {
+          "id": 4,
+          "nombre": "Pedro",
+          "email": "pedro@test.com",
+          "password": "7a72183de71e369373cfb6e7557c39b32740c96506155ba888fde1b0474492f2"
+     },
+     {
+          "id": 5,
+          "nombre": "Lorena",
+          "email": "lore2023@test.com",
+          "password": "7a72183de71e369373cfb6e7557c39b32740c96506155ba888fde1b0474492f2"
+     },
+     {
+          "id": 6,
+          "nombre": "Mariana",
+          "email": "marian33@hotmail.com",
+          "password": "7a72183de71e369373cfb6e7557c39b32740c96506155ba888fde1b0474492f2"
+     },
+     {
+          "id": 7,
+          "nombre": "Mariana",
+          "email": "marian34@hotmail.com",
+          "password": "7a72183de71e369373cfb6e7557c39b32740c96506155ba888fde1b0474492f2"
+     }
+]
